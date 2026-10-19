@@ -1,0 +1,1 @@
+# NextLauncher Updates\nDistribution repository for NextLauncher auto-updates.
